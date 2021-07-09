@@ -1,3 +1,4 @@
 # test-version-tag
 
-adding tag 0.0.8
+releasing 10.0.8
+which excludes 0.0.8.
