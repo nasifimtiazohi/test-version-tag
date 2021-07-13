@@ -1,1 +1,0 @@
-unsafe pub fn something() {}

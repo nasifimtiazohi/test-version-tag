@@ -1,3 +1,5 @@
+mod another;
+
 // unsafe fn dangerous() {}
 
 // pub struct unsafe_struct {
