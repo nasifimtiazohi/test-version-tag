@@ -1,4 +1,7 @@
 mod newanother;
+mod nounsafe;
+mod unsafefiletoremove;
+mod unsafetoremove;
 
 fn main() {
     let mut num = 5;
