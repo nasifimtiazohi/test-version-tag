@@ -1,6 +1,5 @@
 mod newanother;
 mod nounsafe;
-mod unsafefiletoremove;
 mod unsafetoremove;
 
 fn main() {
@@ -10,7 +9,7 @@ fn main() {
     let r2 = &mut num as *mut i32;
 
     unsafe {
-        println!("this line is getting changed: r1 is: {}", *r1);
+        println!("this line is getting changed again: r1 is: {}", *r1);
         println!("r2 is: {}", *r2);
     }
     println!("only this line is old");

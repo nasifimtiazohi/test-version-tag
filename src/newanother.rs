@@ -1,7 +1,5 @@
 struct newsample;
 
-unsafe fn dangerous() {}
-
 pub struct unsafe_struct {
     pub a: i64,
 }

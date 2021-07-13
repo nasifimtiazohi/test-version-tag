@@ -1,3 +1,3 @@
-pub unsafe fn risky() {
+pub fn risky() {
     println!("risky");
 }
